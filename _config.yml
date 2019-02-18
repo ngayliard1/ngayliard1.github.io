@@ -1,5 +1,5 @@
 # Site settings
-title: Nick Gayliard
+title: Data Science
 email: ngayliard@gmail.com
 url: https://ngayliard1.github.io
 description: "Portfolio website for my data science side projects"
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Nick Gayliard
   location: Location
   social: Around the Web
   credits: Credits
