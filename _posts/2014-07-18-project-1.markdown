@@ -4,13 +4,9 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: February 2019
-client: General Assembly Project
-category: Data Science (NLP)
-description: The goal of this project was to identify topics discussed in US Presidential speeches with machine learning algorithms. I used and compared a variety of topic modeling techniques including Latent Dirichlet Allocation, Non-Negative Matrix Factorization, and Doc2Vec.
-
-First, I modeled and analyzed the speeches to identify the latent topics and topic keywords, and graphed when the topics were discussed over time (20th and early 21st century). Afterward, I manually read through several dozen presidential speeches and tagged them with topics to use the same methods for a small supervised learning sample.
-
-This was an intriguing topic to practice NLP techniques on that have a wide variety of potential business use cases. These methods can be used to identify latent topics in large sets of documents such as emails, news, or forum posts. Then the resulting topics and keywords can be used to sort documents, identify changes in what people are discussing over time, or to build content-based recommender systems, as just a few examples.
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 
 ---
