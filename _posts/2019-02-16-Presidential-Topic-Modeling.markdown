@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2019-02-16
 img: pres.jpg
-alt: Presidential Topic Modeling
+alt: Presidential Speech Topic Modeling
 project-date: February 2019
 client: General Assembly
 category: Data Science
