@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 1
 date: 2019-02-16
-img: cabin.png
-alt: image-alt
+img: pres.jpg
+alt: Presidential Topic Modeling
 project-date: February 2019
 client: General Assembly
 category: Data Science
-description: Project 3, presidential topic modeling
+description: Presidential Topic Modeling Using Natural Language Processing
 
 ---
